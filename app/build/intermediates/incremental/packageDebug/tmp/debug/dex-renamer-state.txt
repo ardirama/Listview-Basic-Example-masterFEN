@@ -1,0 +1,7 @@
+#Mon Jan 14 14:19:51 ICT 2019
+base.0=C\:\\Users\\adria\\Downloads\\Listview-Basic-Example-master\\Listview-Basic-Example-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\adria\\Downloads\\Listview-Basic-Example-master\\Listview-Basic-Example-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
